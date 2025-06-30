@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#663399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-theater">
+  <path d="M2 10c0-4.4 3.6-8 8-8s8 3.6 8 8"/>
+  <path d="M18 10v.43"/>
+  <path d="M6 10v.43"/>
+  <path d="M10 8v.14"/>
+  <path d="M14 8v.14"/>
+  <path d="M3 10c0 .82.2 1.62.6 2.4"/>
+  <path d="M10 20c0-1.87 3-2.7 3-5a3 3 0 1 0-6 0n12"/>
+  <path d="M7 15c0 2.3 5 6 5 6s5-3.7 5-6a5 5 0 0 0-10 0"/>
+</svg>
